@@ -1,0 +1,42 @@
+[
+  {
+    "id": "surge-xt",
+    "name": "Surge XT",
+    "description": "Free, open-source hybrid synthesizer",
+    "category": "Synth",
+    "repo": "surge-synthesizer/surge",
+    "assetPattern": "Surge*.vst3.zip"
+  },
+  {
+    "id": "vital",
+    "name": "Vital",
+    "description": "Spectral warping wavetable synth",
+    "category": "Synth",
+    "repo": "vital-audio/vital",
+    "assetPattern": "Vital*.vst3.zip"
+  },
+  {
+    "id": "togu-audio",
+    "name": "TAL-Filter",
+    "description": "Analog modeled filter",
+    "category": "Filter",
+    "repo": "toguaudio/tal-filter",
+    "assetPattern": "TAL-Filter*.vst3"
+  },
+  {
+    "id": "dexed",
+    "name": "Dexed",
+    "description": "FM synthesis engine",
+    "category": "Synth",
+    "repo": "asb2m10/dexed",
+    "assetPattern": "Dexed*.vst3.zip"
+  },
+  {
+    "id": "helm",
+    "name": "Helm",
+    "description": "Polyphonic synthesizer",
+    "category": "Synth",
+    "repo": "mtytel/helm",
+    "assetPattern": "Helm*.vst3"
+  }
+]
